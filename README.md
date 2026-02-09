@@ -1,1 +1,1 @@
-# Plant-Leaf-Disease-Detection-Using-CNN-
+# Plant-Leaf-Disease-Prediction-Using-CNN-
